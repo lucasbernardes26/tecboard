@@ -5,7 +5,7 @@
 ## 📸 Visualização
 
 <div align="center">
-<img src="img/preview.png" alt="Preview do Projeto Techboard" width="100%">
+<img src="img/preview.png" alt="Preview do Projeto Tecboard" width="100%">
 </div>
 
 ## 🔨 Funcionalidades
@@ -42,7 +42,7 @@ techboard/
 
 **1.** Clone este repositório:
 ```
-git clone [https://github.com/lucasbernardes26/techboard.git](https://github.com/lucasbernardes26/techboard.git)
+git clone [https://github.com/lucasbernardes26/tecboard.git](https://github.com/lucasbernardes26/tecboard.git)
 ```
 
 **2.** Navegue até a pasta do projeto.
